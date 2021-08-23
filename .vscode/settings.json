@@ -3,5 +3,6 @@
         "document",
         "containers",
         "blocks"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
